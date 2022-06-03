@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @MironBerch
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning django
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
