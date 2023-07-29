@@ -2,6 +2,8 @@
 
 [![Profile badge](https://www.codewars.com/users/MironBerch/badges/large)](https://www.codewars.com/users/MironBerch)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/MironBerch)
+
 ## Technology stack
 
 **Back-end**
