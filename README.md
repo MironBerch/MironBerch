@@ -3,7 +3,7 @@
 ## Technology stack
 
 **Back-end**
-`Python` `Django` `DRF` `Flask` `FastAPI` `SqlAlchemy` `alembic` `celery` `RabbitMQ`
+`Python` `Django` `DRF` `Flask` `FastAPI` `SqlAlchemy` `alembic` `celery` `RabbitMQ` `uv`
 
 **Databases**
 `SQL` `PostgreSQL` `Redis` `MongoDB` `Elasticsearch`
