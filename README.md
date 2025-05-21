@@ -2,11 +2,22 @@
 
 ## Technology stack
 
-**Back-end**
-`Python` `Django` `DRF` `Flask` `FastAPI` `SqlAlchemy` `alembic` `celery` `RabbitMQ` `uv`
+**Programing languages**
+
+`Python` `C++` `GoLand` `Dart`
+
+**Back-end frameworks**
+
+`Django` `Django REST Framework` `Flask` `FastAPI` `Litestar` `Gin`
+
+**Multi-platform frameworks**
+
+`Flutter`
 
 **Databases**
+
 `SQL` `PostgreSQL` `Redis` `MongoDB` `Elasticsearch`
 
 **Tools**
-`Docker` `docker compose` `Linux` `Git` `Kubernetes` `Terraform`
+
+`Docker` `docker compose` `Linux` `Git` `Kubernetes` `Terraform` `YandexCloud` `RabbitMQ`
