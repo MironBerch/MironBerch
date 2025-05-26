@@ -4,15 +4,11 @@
 
 **Programing languages**
 
-`Python` `C++` `GoLand` `Dart`
+`Python` `GoLand`
 
 **Back-end frameworks**
 
 `Django` `Django REST Framework` `Flask` `FastAPI` `Litestar` `Gin`
-
-**Multi-platform frameworks**
-
-`Flutter`
 
 **Databases**
 
