@@ -4,11 +4,15 @@
 
 **Programing languages**
 
-`Python` `GoLand`
+`Python` `GoLand` `C++` `JavaScript` `TypeScript`
 
 **Back-end frameworks**
 
 `Django` `Django REST Framework` `Flask` `FastAPI` `Litestar` `Gin`
+
+**Front-end frameworks**
+
+`Vue` `React`
 
 **Databases**
 
