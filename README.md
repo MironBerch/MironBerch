@@ -2,4 +2,4 @@
 
 ## Technology stack
 
-`Python` `Django` `FastAPI` `Go` `PostgreSQL` `Redis` `MongoDB` `Elasticsearch` `Docker` `docker compose` `Linux` `Git` `Kubernetes` `Terraform` `YandexCloud` `RabbitMQ`
+`Python` `Django` `FastAPI` `Go` `PostgreSQL` `Redis` `MongoDB` `Elasticsearch` `Docker` `Linux` `Git` `Kubernetes` `Terraform` `YandexCloud` `RabbitMQ` `Apache Kafka`
