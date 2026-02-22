@@ -2,4 +2,4 @@
 
 ## Technology stack
 
-`Go` `Python` `PostgreSQL` `Redis` `MongoDB` `Elasticsearch` `Docker` `RabbitMQ` `Apache Kafka`
+`Go` `Python` `PostgreSQL` `Redis` `MongoDB` `Elasticsearch` `Docker`
