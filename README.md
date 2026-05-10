@@ -2,4 +2,4 @@
 
 ## Technology stack
 
-`Go` `Python` `PostgreSQL` `Redis` `MongoDB` `Elasticsearch` `Docker`
+`Go` `Python` `PostgreSQL` `Kafka` `Kubernetes` `Linux`
